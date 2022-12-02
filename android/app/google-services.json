@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40565386568",
+    "project_id": "tss-club",
+    "storage_bucket": "tss-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40565386568:android:ac11c3213da1f389f5977d",
+        "android_client_info": {
+          "package_name": "com.example.tss_clubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40565386568-p7f0utmcnkpae4odab5tm5j4b6t5bodf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEg6e_aJ03ggIbUnEwbW2qxISM43g7SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40565386568-p7f0utmcnkpae4odab5tm5j4b6t5bodf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
