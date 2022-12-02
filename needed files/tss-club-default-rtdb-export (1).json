@@ -1,0 +1,239 @@
+[
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "Anime Club",
+    "description": "Watching and discussing anime / related events",
+    "id": 0,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.jpg?alt=media&token=635216da-d3e3-434a-a258-1bba26e7c9bc",
+    "ismr": true,
+    "meeting_days": "Tuesdays",
+    "meeting_room": "146",
+    "techear": "Mr.Knox"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "screenshot",
+    "description": "this is a screen shot from the tss club managing app",
+    "id": 1,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2FScreenshot_20221120-190042.jpg?alt=media&token=ad714c5b-e39a-495d-b896-5847d1e74ca4",
+    "ismr": true,
+    "meeting_days": "never ever",
+    "meeting_room": "in vscode mf",
+    "techear": "Mr.presedent.Profesor.Doctor.Ali.Rahimzadehfard the ultimate god of flutter"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "Board of Student Senators",
+    "description": "The Board of Student Senators (or BOSS) is made up of 16 student leaders who work to lead and represent the students of Thornhill. Their purpose is to provide the students with a welcoming, funspirited home that we call Thornhill. They work together to host annual events that encourage student spirit, participation, and involvement within the school. BOSS is always here for the students and are here to look out for the needs and best interests of the students.",
+    "id": 2,
+    "image_url": "http://alirm.ir/assets/img/pic03.jpg",
+    "ismr": true,
+    "meeting_days": "TBD",
+    "meeting_room": "144",
+    "techear": "Mrs. Retsos"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Technology",
+    "club_name": "Computer Club ",
+    "description": "Computers.",
+    "id": 3,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.png?alt=media&token=3f0c9d99-55b8-45a4-ae6b-eb1b499f4355",
+    "ismr": true,
+    "meeting_days": "TBD",
+    "meeting_room": "221",
+    "techear": "Mr. Benum"
+  },
+  {
+    "gallery_image": [
+    "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+    "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+    "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+  ],
+    "admin_code": "1234",
+    "category": "Sports",
+    "club_name": "TSS Heart & Stroke",
+    "description": "The Heart and Stroke Foundation is dedicated to building healthier hearts and minds throughout the local community. Charities and events will be organized during the year to allow the students and staff of TSS to be educated in the importance of cardiovascular health and to live healthy lives, free of heart disease and stroke. This club works directly with the Heart and Stroke Foundation of Canada.",
+    "id": 4,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.png?alt=media&token=3f0c9d99-55b8-45a4-ae6b-eb1b499f4355",
+    "ismr": true,
+    "meeting_days": "Most Likely Wednesdays",
+    "meeting_room": "Most likely 117",
+    "techear": "Ms. Yasmin"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Sports",
+    "club_name": "TSS Heart & Stroke",
+    "description": "The Heart and Stroke Foundation is dedicated to building healthier hearts and minds throughout the local community. Charities and events will be organized during the year to allow the students and staff of TSS to be educated in the importance of cardiovascular health and to live healthy lives, free of heart disease and stroke. This club works directly with the Heart and Stroke Foundation of Canada.",
+    "id": 5,
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2FScreenshot_20221120-190042.jpg?alt=media&token=7336c89b-19a8-41d2-b79d-5912f5ecd48c",
+    "ismr": false,
+    "meeting_days": "Most Likely Wednesdays",
+    "meeting_room": "Most likely 117",
+    "techear": "Ms. Yasmin"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Science & Math",
+    "club_name": "math",
+    "description": "darman and bateni",
+    "id": 6,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": true,
+    "meeting_days": "never",
+    "meeting_room": "145",
+    "techear": "darman and bateni"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "kg i",
+    "description": "jf if",
+    "id": 7,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": true,
+    "meeting_days": "itcit",
+    "meeting_room": "utxur",
+    "techear": "urxurx"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Sports",
+    "club_name": "dghjا",
+    "description": "ghj",
+    "id": 8,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "ghjj",
+    "meeting_room": "dghj",
+    "techear": "ryji"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Technology",
+    "club_name": "jfx",
+    "description": "itxitdiyciyfiycigcigohvoh kg ig gi jg ig ig ig ig gicigcyivigcig ig igvj 8tcig jv iy jvig igig ut ig ig ug ih jvig hivi jg g  ig ig ig ih ig ig ig ig ig jv ig gi ig vkjvvj ig  ig gi gi gi igig giUtxufxuffuUtxitxutxutxurxurxurxItxitix ",
+    "id": 9,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "so",
+    "meeting_room": "سی",
+    "techear": "sync"
+  },
+  {
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "admin_code": "1234",
+    "category": "Technology",
+    "club_name": "DM",
+    "description": "UtxufxuffuUtxitxutxutxurxurxurxItxitixUtxufxuffuUtxitxutxutxurxurxurxItxitix",
+    "id": 10,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "do",
+    "meeting_room": "d8",
+    "techear": "d8"
+  },
+  {
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "h",
+    "description": "g",
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fh%2Fgallery%2FIMG-20220920-WA0019.jpg?alt=media&token=70010c2b-6057-43c9-b1ba-7efe8f0810f3",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fh%2Fgallery%2FIMG-20220920-WA0019.jpg?alt=media&token=b3dc46d4-aa01-4e48-b023-214bef827382"
+    ],
+    "id": 11,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "t",
+    "meeting_room": "t",
+    "techear": "t"
+  },
+  {
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "bug",
+    "description": "by",
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fbug%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=00e0c96f-3508-46ec-ade4-716bb2596e91",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fbug%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=bbdf39f3-cb5f-4cec-8120-33895df1ea2a",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fbug%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=8278b62f-50df-40a9-a681-18e2c9fb3321"
+    ],
+    "id": 12,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "husband",
+    "meeting_room": "fj",
+    "techear": "gd ای j"
+  },
+  {
+    "admin_code": "1234",
+    "category": "Other",
+    "club_name": "ifc8t",
+    "description": "7rcr7",
+    "gallery_image": [
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0000.jpeg?alt=media&token=d703e61f-2ce2-438a-95c1-e7661fe0b076",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FIMG-20221123-WA0002.jpeg?alt=media&token=282e6747-9d03-40e6-9bb7-4315ebf5cd71",
+      "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fifc8t%2Fgallery%2FScreenshot_20221121-025321.jpg?alt=media&token=3996f5d3-af23-4c44-9a0b-e83ff53ea228"
+    ],
+    "id": 13,
+    "image_url": "https://objectstorage.ca-toronto-1.oraclecloud.com/n/yzfdbvedfymj/b/bucket-20221110-2355/o/Science%20%26%20Math.png",
+    "ismr": false,
+    "meeting_days": "yr 6",
+    "meeting_room": "6rx6",
+    "techear": "yd yd"
+  }
+]

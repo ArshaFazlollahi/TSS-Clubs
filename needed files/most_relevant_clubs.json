@@ -1,0 +1,57 @@
+[
+    {
+        "club_name": "Anime Club",
+        "id": 1,
+        "meeting_room": "146",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.jpg?alt=media&token=635216da-d3e3-434a-a258-1bba26e7c9bc",
+        "meeting_days": "Tuesdays",
+        "techear": "Mr.Knox",
+        "description": "Watching and discussing anime / related events",
+        "category": "Other"
+        
+      },
+      {
+        "club_name": "Astronomy Club ",
+        "id": 2,
+        "meeting_room": "129",
+        "image_url": "http://welearnacademy.ir/flutter/black-gray.png",
+        "meeting_days": "Thursdays or Mondays",
+        "techear": "Ms.Meema",
+        "description": "Astronomy club is a place where we learn about the things we have never seen and then we bring out the telescopes to be able to see it with our own eyes. The Sun, the Moon, Jupiter, Venus and Mars are some of the many exciting sights we have experienced! Join astronomy club in room 129 once a week, to meet new people, learn new things, and see the extraordinary. ",
+        "category": "Science & Math"
+        
+      },
+      {
+        "club_name": "Board of Student Senators",
+        "id": 3,
+        "meeting_room": "144",
+        "image_url": "http://welearnacademy.ir/flutter/black-gray.png",
+        "meeting_days": "TBD",
+        "techear": "Mrs. Retsos",
+        "description": "The Board of Student Senators (or BOSS) is made up of 16 student leaders who work to lead and represent the students of Thornhill. Their purpose is to provide the students with a welcoming, funspirited home that we call Thornhill. They work together to host annual events that encourage student spirit, participation, and involvement within the school. BOSS is always here for the students and are here to look out for the needs and best interests of the students.",
+        "category": "Other"
+        
+      },
+      {
+        "club_name": "Computer Club ",
+        "id": 4,
+        "meeting_room": "221",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.png?alt=media&token=3f0c9d99-55b8-45a4-ae6b-eb1b499f4355",
+        "meeting_days": "TBD",
+        "techear": "Mr. Benum",
+        "description": "Computers.",
+        "category": "Technology"
+        
+      },
+      {
+        "club_name": "TSS Heart & Stroke",
+        "id": 5,
+        "meeting_room": "Most likely 117",
+        "image_url": "https://firebasestorage.googleapis.com/v0/b/tss-club.appspot.com/o/images%2Fdownload.png?alt=media&token=3f0c9d99-55b8-45a4-ae6b-eb1b499f4355",
+        "meeting_days": "Most Likely Wednesdays",
+        "techear": "Ms. Yasmin",
+        "description": "The Heart and Stroke Foundation is dedicated to building healthier hearts and minds throughout the local community. Charities and events will be organized during the year to allow the students and staff of TSS to be educated in the importance of cardiovascular health and to live healthy lives, free of heart disease and stroke. This club works directly with the Heart and Stroke Foundation of Canada.",
+        "category": "Sports"
+        
+      }
+]
