@@ -1,8 +1,16 @@
-# TSS-Clubs
-⭐A cross-platform app I'm developing that organizes and advertises clubs at Thornhill Secondary School.
+# tss_clubs
 
-Thornhill Secondary School, the high school that I currently go to, offers a wide range of different clubs that students can attend and explore their interests in. However, students often don't know about many of these clubs and how to join them, which is why I'm developing an app that organizes all of these clubs and provides students with everything that they need to know about each club (e.g. club description, meeting rooms, images, ect.). 
+A new Flutter project.
 
-# ✅Progress
+## Getting Started
 
-Most of the app is done, the core organizing and admin features have been finished. Right now I'm working on improving the UI and optimizing the app.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
