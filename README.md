@@ -6,3 +6,6 @@ Thornhill Secondary School, the high school that I currently go to, offers a wid
 # ✅Progress
 
 Most of the app is done, the core organizing and admin features have been finished. Right now I'm working on improving the UI and optimizing the app.
+
+🗒️Note: This repository does not contain all files required to test this app, as some of them should remain private. The app will be accessible whenever it is released 
+on the AppStore and Google Play.
